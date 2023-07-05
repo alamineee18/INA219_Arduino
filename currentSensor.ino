@@ -1,12 +1,3 @@
-/*
-  ACS712 DC Current Demonstration
-  acs712-dc-demo.ino
-  Read current using ACS712 Hall Effect sensor
-  
-  DroneBot Workshop 2021
-  https://dronebotworkshop.com
-*/
- 
 // Variables for Measured Voltage and Calculated Current
 double Vout = 0;
 double Current = 0;
